@@ -1,9 +1,9 @@
-package stringutil
+package stringst
 
 import "testing"
 
 func TestReverse(t *testing.T) {
-	cases := [] struct {
+	cases := []struct {
 		in, want string
 	}{
 		{"Hello,world", "dlrow,olleH"},
