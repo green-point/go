@@ -14,3 +14,5 @@
 .glide/
 hello/debug
 world/debug
+async/debug
+google/debug
